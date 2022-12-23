@@ -3,5 +3,6 @@
 ## 開発環境
 ・Larevel Sail
 ・PHP 8.1.13
+
 ##使用パッケージ
 ・Laravel Jetstream
