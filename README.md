@@ -4,5 +4,4 @@
 ・Larevel Sail
 ・PHP 8.1.13
 
-使用パッケージ
-・Laravel Jetstream
+使用パッケージ: Laravel Jetstream
